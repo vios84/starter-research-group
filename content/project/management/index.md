@@ -1,5 +1,5 @@
 ---
-title: Management
+title: Menaxhim
 summary: An initial data gathering project
 tags:
 - Learning
