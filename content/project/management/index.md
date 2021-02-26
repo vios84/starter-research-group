@@ -7,7 +7,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-internal_link: "content/post/new/index.md"
+external_link: "https://kurse-online.netlify.app/post/new/"
 
 image:
   caption: Photo by Leon Gao on Unsplash
