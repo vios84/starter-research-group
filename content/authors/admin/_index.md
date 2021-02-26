@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Visar Sylaj
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include applied linguistics, computational linguistics and chinese studies.
 
 interests:
-- Artificial Intelligence
+- Applied Linguistics
 - Computational Linguistics
-- Information Retrieval
+- Chinese Studies
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Applied Linguistics
     institution: Stanford University
+    year: on-going
+  - course: MA in Linguistics
+    institution: University of Bologna
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BA in Foreign Languages
+    institution: University of Bologna
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,6 +68,6 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Visar Sylaj is a lecturer of applied linguistics at the Center of Applied Sciences. His research interests include media research, linguistic computing and chinese studies. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
