@@ -22,7 +22,7 @@ subtitle = ""
   filter_default = 0
   
    [[content.filter_button]]
-     name = "All"
+     name = "Të gjitha"
      tag = "*"
   
    [[content.filter_button]]
@@ -31,11 +31,11 @@ subtitle = ""
      
    [[content.filter_button]]
      name = "Gjuhë të huaja"
-     tag = "Corpus"
+     tag = "Gjuhë të huaja"
      
    [[content.filter_button]]
-     name = "kinezisht"
-     tag = "Chinese"
+     name = "Kinezisht"
+     tag = "Kinezisht"
   
    [[content.filter_button]]
      name = "Tjetër"
