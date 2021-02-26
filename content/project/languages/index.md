@@ -3,7 +3,7 @@ title: Gjuhe Kineze
 summary: An initial data gathering project
 tags:
 - Gjuhë të huaja
-- kinezisht
+- Kinezisht
 
 date: "2016-04-27T00:00:00Z"
 
