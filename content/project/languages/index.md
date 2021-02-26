@@ -4,10 +4,11 @@ summary: An initial data gathering project
 tags:
 - Gjuhë të huaja
 - kinezisht
+
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-internal_link: "starter-research-group/content/post/languages/kinezisht/index.md"
+external_link: "https://kurse-online.netlify.app/post/languages/kinezisht/"
 
 image:
   caption: Photo by Leon Gao on Unsplash
