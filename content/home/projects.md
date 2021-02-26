@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 85  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
 title = "Fushat e kurseve"
 subtitle = ""
@@ -30,16 +30,16 @@ subtitle = ""
      tag = "Menaxhim"
      
    [[content.filter_button]]
-     name = "Corpus"
+     name = "Gjuhë të huaja"
      tag = "Corpus"
      
    [[content.filter_button]]
-     name = "Chinese"
+     name = "kinezisht"
      tag = "Chinese"
   
    [[content.filter_button]]
-     name = "Other"
-     tag = "Demo"
+     name = "Tjetër"
+     tag = "Tjetër"
     
 
 [design]
