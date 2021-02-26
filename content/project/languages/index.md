@@ -3,7 +3,6 @@ title: Gjuhe Kineze
 summary: An initial data gathering project
 tags:
 - Gjuhë të huaja
-- Kinezisht
 
 date: "2016-04-27T00:00:00Z"
 
@@ -14,15 +13,14 @@ image:
   caption: Photo by Leon Gao on Unsplash
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+# links:
+# - icon: twitter
+#  icon_pack: fab
+#  name: Follow
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
