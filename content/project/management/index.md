@@ -2,7 +2,7 @@
 title: Menaxhim
 summary: An initial data gathering project
 tags:
-- Learning
+- Menaxhim
 
 date: "2016-04-27T00:00:00Z"
 
