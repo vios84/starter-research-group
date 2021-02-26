@@ -2,12 +2,12 @@
 title: Chinese learners corpus
 summary: An initial data gathering project
 tags:
-- Chinese
-- Corpus
+- Gjuhë të huaja
+- Kinezisht
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+internal_link: "content/post/new/index.md"
 
 image:
   caption: Photo by Leon Gao on Unsplash
