@@ -26,8 +26,8 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Learning"
-     tag = "Learning"
+     name = "Menaxhim"
+     tag = "Menaxhim"
      
    [[content.filter_button]]
      name = "Corpus"
