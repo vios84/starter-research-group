@@ -1,6 +1,6 @@
 ---
 title: Menaxhim Korporatash
-date: 2020-12-02
+date: 2021-02-02
 ---
 
 Hyrje ne Menaxhim Korporatash.
