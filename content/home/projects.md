@@ -32,10 +32,6 @@ subtitle = ""
    [[content.filter_button]]
      name = "Gjuhë të huaja"
      tag = "Gjuhë të huaja"
-     
-   [[content.filter_button]]
-     name = "Kinezisht"
-     tag = "Kinezisht"
   
    [[content.filter_button]]
      name = "Tjetër"
