@@ -66,6 +66,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
+- Visitors
 ---
 
 Visar Sylaj is a lecturer of applied linguistics at the Center of Applied Sciences. His research interests include media research, linguistic computing and chinese studies. 
