@@ -24,7 +24,7 @@ interests:
 education:
   courses:
   - course: PhD in Applied Linguistics
-    institution: Stanford University
+    institution: Shaanxi Normal University
     year: on-going
   - course: MA in Linguistics
     institution: University of Bologna
